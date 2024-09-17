@@ -17,4 +17,5 @@ def test_area_circulo():
     # Test case 5: radius = 10
     assert area_circulo(10) == math.pi * 10 ** 2
 
+# Ejecutar los tests
 test_area_circulo()
